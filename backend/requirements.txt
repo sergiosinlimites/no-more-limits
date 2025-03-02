@@ -1,0 +1,5 @@
+websockets
+numpy
+faster_whisper
+soundfile
+asyncio
