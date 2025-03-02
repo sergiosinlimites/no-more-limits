@@ -29,11 +29,12 @@ pip install -r ./backend/requirements.txt
 py faster_whisper_websockets.py
 ```
 
+
 ### 🔹 Client Setup
 Open ./frontend/index.html in a web browser.
 Click the "Record" button and grant microphone permissions.
-### 💡 Contributing
+## 💡 Contributing
 This project is open to contributions! If you would like to collaborate, feel free to submit a Pull Request (PR) with improvements, optimizations, or new features. Any help is appreciated!
 
-### 📜 License
+## 📜 License
 This project is open-source. You are free to use, modify, and contribute to it.
